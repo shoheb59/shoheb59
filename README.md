@@ -14,9 +14,7 @@
 
 - 📫 How to reach me **hasnat.shoheb@gmail.com**
 
-- ⚡ Favorite Quote **People always say "code and then test," I prefer “test and then code."
-
-**
+- ⚡ Favorite Quote **People always say "code and then test," I prefer “test and then code."**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

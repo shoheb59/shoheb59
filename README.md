@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoheb49&label=Profile%20views&color=0e75b6&style=flat" alt="shoheb49" /> </p>
 
-- 🔭 I’m currently working at **Brain Craft ltd**
+- 🔭 I’m currently working at **SELISE**
 
 - 🌱 I’m currently learning **Automation Frameworks**
 
